@@ -1,2 +1,3 @@
-data/simulator/train
-data/simulator/validation
+data/simulator/train/
+data/simulator/validation/
+.ipynb_checkpoints
